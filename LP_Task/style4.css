@@ -1,0 +1,185 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #F7F7F7;
+}
+
+.hero {
+    background: url('fb7f8fb6961e4301880ada5b828a6560.jpg') center/cover no-repeat;
+    color: black;
+    text-align: center;
+    /* /* padding: 5em 0; */
+    padding-bottom: 310px;
+    padding-top: 310PX;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 900;
+    font-style: oblique
+}
+
+
+
+
+
+h1 {
+    font-size: 2rem;
+    margin: 0;
+}
+
+p {
+    font-size: 1.2rem;
+    margin: 20px 0;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background: #FFA500;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+#menu {
+    /* background: url(ename\ \(1\).jpg) center/cover no-repeat; */
+    background-color: black;
+    color: rgba(187, 248, 32, 1);
+}
+
+.menu-section {
+    text-align: center;
+    padding-top: 110px;
+    padding-bottom: 120px;
+}
+
+.menu-item {
+    margin: 20px;
+    text-align: center;
+    display: inline-block;
+
+
+
+
+}
+
+.menu-item img {
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 27px;
+
+
+}
+
+.menu-item span {
+    background-color: #FFA500;
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-size: small;
+}
+
+
+
+
+
+
+.specials-section {
+    text-align: center;
+    padding: 3em 0;
+    background-color: black;
+    color: rgba(187, 248, 32, 1);
+
+
+}
+
+
+.special-item span {
+    background-color: #FFA500;
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-size: small;
+}
+
+.special-item {
+    margin: 20px;
+
+    display: inline-block;
+
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.special-item img {
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    border-radius: 27px;
+
+}
+
+
+
+
+.timings-section {
+    text-align: center;
+    padding: 3em 0;
+    background-color: black;
+    color: rgba(187, 248, 32, 1);
+}
+
+.timings-section span {
+    background-color: #FFA500;
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-size: larger;
+}
+
+
+
+.contact-section {
+
+    background-color: black;
+    color: rgba(187, 248, 32, 1);
+
+
+    text-align: center;
+    padding: 3em 0;
+
+}
+
+
+.contact-section span {
+    background-color: #FFA500;
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-size: larger;
+}
+
+.contact-section address {
+    font-size: 1.2rem;
+}
+
+
+#footer {
+    text-align: center;
+ 
+    padding-bottom: 0px;
+    background-color: black;
+    color: rgba(187, 248, 32, 1);
+}
+
+#footer span {
+    background-color: #FFA500;
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-size: larger;
+}
